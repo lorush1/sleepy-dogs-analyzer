@@ -1,9 +1,8 @@
 sleepy dogs analyzer
-====================
 
 idea
 ----
-a moody, terminal-first investigative dashboard that lets you throw evidence at suspects, spin up custom cases, and watch the “murder board” reshape itself while you zoom around timelines. it blends noir storytelling vibes with serious evidence scoring so you always know which threads are heating up.
+a moody, terminal-first investigative dashboard that lets you throw evidence at suspects, spin up custom cases, and watch the “murder board” reshape itself while you zoom around timelines. 
 
 commands
 --------
@@ -29,4 +28,5 @@ expands
 
 creds
 -----
-no external api keys required. data comes from the included `test_data` presets or whatever json you point `--case` at. if you want secure storage for real investigations, bolt on your own vault and swap in a new loader before the tui boots.
+-lorush1
+no external api keys required. data comes from the included `test_data` presets or whatever json you point `--case` at. 
