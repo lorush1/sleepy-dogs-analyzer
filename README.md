@@ -29,5 +29,6 @@ expands
 creds
 -----
 -lorush1
-[technical docs btw(documentation.md)
+[technical notes](documentation.md)
+
 no external api keys required. data comes from the included `test_data` presets or whatever json you point `--case` at. 
